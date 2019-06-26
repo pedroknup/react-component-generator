@@ -12,7 +12,7 @@ export interface I${componentName}ComponentProps {
 }
 
 const ${componentName}Component = (props: I${componentName}ComponentProps) => {
-  return ( <div>
+  return ( <div className={styles["${fileName}"]}>
 
   </div>)
 };
