@@ -13,7 +13,7 @@
   },
   "publisher": "pedroknup",
   "categories": [
-    "Snippets", 
+    "Snippets"
   ],
   "activationEvents": [
     "onCommand:extension.generateModuleComponent"
