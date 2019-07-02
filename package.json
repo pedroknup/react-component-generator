@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.35.0"
   },
-  "icon": "https://dev.marketingmindz.com/internalsites/oracledbaexperts/wp-content/uploads/2016/05/code-icon-script.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/pedroknup/react-component-generator.git"
