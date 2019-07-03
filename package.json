@@ -1,7 +1,7 @@
 {
   "name": "component-module-generator",
   "displayName": "Component Module Generator",
-  "description": "Generate the basic structure of a module react component",
+  "description": "Generate the basic structure of a react module component (internal usage)",
   "version": "0.6.0",
   "engines": {
     "vscode": "^1.35.0"
